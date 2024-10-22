@@ -7,7 +7,6 @@ namespace DALLE
 {
     public class Program
     {
-        // add an async Main method:
         public static async Task Main(string[] args)
         {
 
